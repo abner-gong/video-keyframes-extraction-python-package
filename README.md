@@ -1,8 +1,9 @@
 # Usage example:
+put this "KeyFrames.py" file in your project folder
 
 ## Easiest way:
 ```
-from keyframes_extract_diff import KeyFrames
+from KeyFrames import KeyFrames
 keyframes = KeyFrames() 
 keyframes.extract("pikachu.mp4") 
 ```

@@ -2,7 +2,7 @@
 ## Method One 
 Put this "KeyFrames.py" file in your project folder and you can import it by `from KeyFrames import KeyFrames`
 ## Method Two
-rename this folder to "KeyFrames" and put this fold into `/Anaconda3/lib/python3.6/site-packages` Then you can import it by `from KeyFrames.KeyFrames import KeyFrames`
+rename this folder to "KeyFrames" and put this folder into `/Anaconda3/lib/python3.6/site-packages` Then you can import it by `from KeyFrames.KeyFrames import KeyFrames`
 
 ## Easiest way:
 ```
